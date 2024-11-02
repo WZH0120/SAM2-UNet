@@ -33,7 +33,8 @@ for i in range(test_loader.size):
         gt = np.asarray(gt, np.float32)
         image = image.to(device)
         res, _, _ = model(image)
-        res = torch.sigmoid(res)
+        # fix: duplicate sigmoid
+        # res = torch.sigmoid(res)
         res = F.upsample(res, size=gt.shape, mode='bilinear', align_corners=False)
         res = res.sigmoid().data.cpu()
         res = res.numpy().squeeze()
