@@ -28,7 +28,6 @@ You can refer to the following repositories and their papers for the detailed co
 - Salient Object Detection. Please refer to [SALOD](https://github.com/moothes/SALOD).
 - Marine Animal Segmentation. Please refer to [MASNet](https://github.com/zhenqifu/MASNet).
 - Mirror Detection. Please refer to [HetNet](https://github.com/Catherine-R-He/HetNet).
-- Crop Detection. Please refer to [RISNet](https://github.com/Kki2Eve/RISNet).
 - Polyp Segmentation. Please refer to [PraNet](https://github.com/DengPingFan/PraNet).
 
 ## Requirements
