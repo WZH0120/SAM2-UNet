@@ -30,7 +30,6 @@ You can refer to the following repositories and their papers for the detailed co
 - Mirror Detection. Please refer to [HetNet](https://github.com/Catherine-R-He/HetNet).
 - Crop Detection. Please refer to [RISNet](https://github.com/Kki2Eve/RISNet).
 - Polyp Segmentation. Please refer to [PraNet](https://github.com/DengPingFan/PraNet).
-- Skin Lesion Segmentation. Please refer to [MALUNet](https://github.com/JCruan519/MALUNet).
 
 ## Requirements
 Our project does not depend on installing SAM2. If you have already configured an environment for SAM2, then directly using this environment should also be fine. You may also create a new conda environment:
