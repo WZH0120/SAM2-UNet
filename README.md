@@ -48,14 +48,16 @@ Our pre-trained models and prediction maps can be found on [Google Drive](https:
 ## Evaluation
 After obtaining the prediction maps, you can run `eval.sh` to get most of the quantitative results. For the evaluation of mirror detection, please refer to `eval.py` in [HetNet](https://github.com/Catherine-R-He/HetNet) to obtain the results.
 
-## Papers based on SAM2-UNet
-If you are interested in improving SAM2-UNet, the following papers may be helpful:
+## Other Interesting Works
+If you are interested in designing SAM2-based methods, the following papers may be helpful:
 
 [2025.02] [FE-UNet: Frequency Domain Enhanced U-Net with Segment Anything Capability for Versatile Image Segmentation](https://arxiv.org/abs/2502.03829)
 
 [2025.01] [Progressive Self-Prompting Segment Anything Model for Salient Object Detection in Optical Remote Sensing Images](https://doi.org/10.3390/rs17020342)
 
 [2024.12] [Adapting SAM2 Model from Natural Images for Tooth Segmentation in Dental Panoramic X-Ray Images](https://doi.org/10.3390/e26121059)
+
+[2024.11] [SAM-I2I: Unleash the Power of Segment Anything Model for Medical Image Translation](https://arxiv.org/abs/2411.12755)
 
 ## Citation and Star
 Please cite the following paper and star this project if you use this repository in your research. Thank you!
