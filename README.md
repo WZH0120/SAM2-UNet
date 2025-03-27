@@ -24,7 +24,7 @@ cd SAM2-UNet/
 
 ## Prepare Datasets
 You can refer to the following repositories and their papers for the detailed configurations of the corresponding datasets.
-- Camouflaged Object Detection. Please refer to [FEDER](https://github.com/ChunmingHe/FEDER).
+- Camouflaged Object Detection. Please refer to [FEDER](https://github.com/ChunmingHe/FEDER). [#issue [#13](https://github.com/WZH0120/SAM2-UNet/issues/13), [#44](https://github.com/WZH0120/SAM2-UNet/issues/44)]
 - Salient Object Detection. Please refer to [SALOD](https://github.com/moothes/SALOD).
 - Marine Animal Segmentation. Please refer to [MASNet](https://github.com/zhenqifu/MASNet).
 - Mirror Detection. Please refer to [HetNet](https://github.com/Catherine-R-He/HetNet).
