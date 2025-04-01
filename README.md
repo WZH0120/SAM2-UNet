@@ -51,6 +51,14 @@ After obtaining the prediction maps, you can run `eval.sh` to get most of the qu
 ## Other Interesting Works
 If you are interested in designing SAM2-based methods, the following papers may be helpful:
 
+[2025.03] [Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation](https://arxiv.org/abs/2503.24368)
+
+[2025.03] [DSU-Net:An Improved U-Net Model Based on DINOv2 and SAM2 with Multi-scale Cross-model Feature Enhancement](https://arxiv.org/abs/2503.21187)
+
+[2025.03] [Research on recognition of diabetic retinopathy hemorrhage lesions based on fine tuning of segment anything model](https://www.nature.com/articles/s41598-025-92665-7)
+
+[2025.03] [SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation](https://arxiv.org/abs/2503.12404)
+
 [2025.02] [Fine-Tuning SAM2 for Generalizable Polyp Segmentation with a Channel Attention-Enhanced Decoder](https://ojs.sgsci.org/journals/amr/article/view/311)
 
 [2025.02] [FE-UNet: Frequency Domain Enhanced U-Net with Segment Anything Capability for Versatile Image Segmentation](https://arxiv.org/abs/2502.03829)
