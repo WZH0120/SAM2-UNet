@@ -42,11 +42,15 @@ After obtaining the prediction maps, you can run `eval.sh` to get most of the qu
 ## Citation and Star
 Please cite the following paper and star this project if you use this repository in your research. Thank you!
 ```
-@article{xiong2024sam2,
-  title={SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation},
+@article{xiong2026sam2,
+  title={Sam2-unet: Segment anything 2 makes strong encoder for natural and medical image segmentation},
   author={Xiong, Xinyu and Wu, Zihuang and Tan, Shuangyi and Li, Wenxue and Tang, Feilong and Chen, Ying and Li, Siying and Ma, Jie and Li, Guanbin},
-  journal={arXiv preprint arXiv:2408.08870},
-  year={2024}
+  journal={Visual Intelligence},
+  volume={4},
+  number={1},
+  pages={2},
+  year={2026},
+  publisher={Springer}
 }
 ```
 
